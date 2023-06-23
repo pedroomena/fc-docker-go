@@ -1,4 +1,4 @@
-Challenge FullCycle 3.0
+FullCycle 3.0 Challenge
 
 1. Create an image that runs a `hello world` in golang.
 2. The image must have less than 2MB.
